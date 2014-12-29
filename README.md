@@ -8,7 +8,7 @@ This service monitors a folder and sends any report that appears there to a spec
 
 Written in XML using Apache Camel and Blueprint, a dependency injection framework for OSGi.<br>
 http://camel.apache.org/<br>
-hhttp://aries.apache.org/modules/blueprint.html<br>
+http://aries.apache.org/modules/blueprint.html<br>
 
 This client is designed to run as a service inside Apache ServiceMix (SMX).<br>
 http://servicemix.apache.org/
